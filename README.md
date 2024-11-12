@@ -12,8 +12,6 @@
 - **Scheduled Reports and Alerts**: Daily reminders for users and monthly activity reports for creators.
 
 ## Screenshots
-
-## Screenshots
 ![Screenshot (508)](https://github.com/user-attachments/assets/5b5c241b-6b23-421e-abf8-83d822fc57a0)
 ![Screenshot (509)](https://github.com/user-attachments/assets/02cf71aa-06a7-4156-86a2-0addef8b0489)
 ![Screenshot (510)](https://github.com/user-attachments/assets/96b68c54-884a-431b-9ba2-112f46eca0f6)
@@ -110,6 +108,7 @@ start the app
 python main.py
 ```
 ### DataBase Creation
+```
 python upload_initial_data.py
 ```
 ### Usage
