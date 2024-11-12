@@ -18,6 +18,9 @@
 ![Screenshot (511)](https://github.com/user-attachments/assets/82cf690b-5477-401d-9dd5-58e25f4cb826)
 ![Screenshot (512)](https://github.com/user-attachments/assets/333a0093-bd39-417f-9138-b0bb8a76c9d4)
 ![Screenshot (513)](https://github.com/user-attachments/assets/dde3fa5e-6924-4ca8-8765-60d1336c7395)
+![{76196083-7319-4A57-A078-503C12A99249}](https://github.com/user-attachments/assets/f3c7ffd6-f948-4406-a36c-3a3166d49cb2)
+![{EBAB4167-8E2E-4C53-92C9-2246AE6100AE}](https://github.com/user-attachments/assets/8f3052d2-7f0d-4b75-9874-a10353057c94)
+
 
 ## Technologies Used
 
