@@ -21,6 +21,6 @@ class DevelopmentConfig(Config):
     MAIL_PORT = 465
     MAIL_USE_TLS = False
     MAIL_USE_SSL = True
-    MAIL_USERNAME = 'satishjaiswalbackup2903@gmail.com'
-    MAIL_PASSWORD = "tkunkjyzxvykxszk"
-    MAIL_DEFAULT_SENDER = 'satishjaiswalbackup2903@gmail.com'
+    MAIL_USERNAME = 'XYZ@gmail.com'
+    MAIL_PASSWORD = "XYZYZY"
+    MAIL_DEFAULT_SENDER = 'XYZ@gmail.com'
