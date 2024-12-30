@@ -113,7 +113,7 @@ def monthly_activity_report():
 
 # def test_mail():
 #     with mail.connect() as conn:
-#         msg = Message(subject = "Testing Mail" , recipients = ["satishjaiswal90311@gmail.com"], sender = "satishjaiswalbackup2903@gmail.com") 
+#         msg = Message(subject = "Testing Mail" , recipients = ["XYZ@gmail.com"], sender = "XYZ@gmail.com") 
 #         msg.body = "Hello Message"
 #         conn.send(msg)
 
