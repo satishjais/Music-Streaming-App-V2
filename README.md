@@ -118,5 +118,3 @@ python upload_initial_data.py
 Register for an account if you are new or login if you already have one.
 Once logged in, you can create playlists,become a creator, can create your albumns, give ratings etc.
 ---
-
-This README provides a complete overview of the Sargam V2 app, guiding users and contributors through its features, architecture, database schema, and setup instructions.
