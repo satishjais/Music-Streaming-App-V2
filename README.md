@@ -115,6 +115,7 @@ python main.py
 python upload_initial_data.py
 ```
 ### Usage
-Register for an account if you are new or login if you already have one.
+
+- Register for an account if you are new or login if you already have one.
 Once logged in, you can create playlists,become a creator, can create your albumns, give ratings etc.
 ---
